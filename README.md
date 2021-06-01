@@ -10,11 +10,11 @@ This project is a simple next-word-prediction in persian language.
   
 | accuracy      | loss      |
 |------------|-------------|
-| <img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250"> | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250"> |
+| <img src="https://github.com/majidAdibian77/Next-word-prediction/blob/master/results/accurecy.png" width="250"> | <img src="https://github.com/majidAdibian77/Next-word-prediction/blob/master/results/loss.png" width="250"> |
 
 * Then in test_model.ipynb saved model is loaded and model is tested to predict next word:
 
-<img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250">
+<img src="https://github.com/majidAdibian77/Next-word-prediction/blob/master/results/test_result.JPG" width="250">
 
 ## How to Improve
 * The most important problem of this project is not using big and appropriate primary data. Accuracy improves dramatically if you use more appropriate primary data.
