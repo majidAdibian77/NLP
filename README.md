@@ -1,12 +1,12 @@
 
-## General info
-This project is a simple next-word-prediction in <b>persian language</b>.
+## Description
+This project is a next-word-prediction task in <b>Persian language</b> using preprocessing text data and training multilayer recurrent neural network.
 
 ## Steps
 * First of all, a file including a collection of Persian news is provided. This data is not so good and if you have a larger data, you can improve the results.
 * Then data is preprocesed in data_preprocess.ipynb, for example replace arabic chars to persian. After that vectors of data and labels are saved.
-* Then in train_model.ipynb saved data is loaded and a recerrent neural network is trained using LSTM layers.
-  After 65 epochs accurecy in training data is 0.973 and change of accuracy and loss is ploted:
+* Then in train_model.ipynb saved data is loaded and a multilayer recurrent neural network using LSTM layers is trained.
+  After 65 epochs accuracy in training data is 0.973 and change of accuracy and loss is ploted:
   
 | accuracy      | loss      |
 |------------|-------------|
