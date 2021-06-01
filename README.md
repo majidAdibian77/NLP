@@ -16,6 +16,6 @@ This project is a simple next-word-prediction in persian language.
 
 <img src="https://github.com/majidAdibian77/Next-word-prediction/blob/master/results/test_result.JPG" width="250">
 
-## 
+## How to Improve
 * The most important problem of this project is not using big and appropriate primary data. Accuracy improves dramatically if you use more appropriate primary data.
 * Different parameters as well as different layers can be tested for the neural network model and the accuracy can be improved.
