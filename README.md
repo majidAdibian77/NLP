@@ -1,6 +1,6 @@
 
 ## General info
-This project is a simple next-word-prediction in persian language.
+This project is a simple next-word-prediction in <b>persian language</b>.
 
 ## Steps
 * First of all, a file including a collection of Persian news is provided. This data is not so good and if you have a larger data, you can improve the results.
